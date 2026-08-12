@@ -1957,6 +1957,7 @@
   <exchangePlans>ExchangePlan.МиграцияПриложений</exchangePlans>
   <exchangePlans>ExchangePlan.ОбменСообщениями</exchangePlans>
   <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
+  <exchangePlans>ExchangePlan.ПланОбменаSSL</exchangePlans>
   <xDTOPackages>XDTOPackage._DemoEnterpriseDataExt_1_1_1</xDTOPackages>
   <xDTOPackages>XDTOPackage._DemoEnterpriseDataExt_1_2_1</xDTOPackages>
   <xDTOPackages>XDTOPackage.AgentScripts</xDTOPackages>
