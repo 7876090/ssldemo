@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExchangePlan xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="581e47fd-36db-44ed-be6c-6baa8dd6d3f2" thisNode="79556b81-9bcc-4f86-9d19-9e72c58add1c">
+  <producedTypes>
+    <objectType typeId="fb05168d-917d-4fdd-acc9-844c0016cec4" valueTypeId="be92e520-0278-4be0-97ed-e4580e0659a3"/>
+    <refType typeId="a3ee58c2-a172-4e03-9e67-30658a756df3" valueTypeId="a577ac1a-0c9d-4547-b640-86d381813499"/>
+    <selectionType typeId="8de0d6c9-e25e-40bf-8507-094d5d17cac1" valueTypeId="dc71c32a-2ddf-41e9-9490-ad31e2bfa559"/>
+    <listType typeId="9da9cc6a-53db-4b36-9fc7-c0e302bb5fa5" valueTypeId="21093311-1910-46d0-80d7-d5814561316d"/>
+    <managerType typeId="0a92f391-63ad-4c76-a3f1-cf5b277f4540" valueTypeId="9464d637-6c60-463a-a417-4565c0d204b4"/>
+  </producedTypes>
+  <name>ПланОбменаSSL3</name>
+  <synonym>
+    <key>ru</key>
+    <value>План обмена SSL3</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ExchangePlan.ПланОбменаSSL3.StandardAttribute.Code</inputByString>
+  <inputByString>ExchangePlan.ПланОбменаSSL3.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>9</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ExchangePlan>
