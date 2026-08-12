@@ -3052,6 +3052,7 @@
   <catalogs>Catalog.ЯзыкиПечатныхФорм</catalogs>
   <catalogs>Catalog.Удалить_ДемоОбщиеСведения</catalogs>
   <catalogs>Catalog.УдалитьОчередьЗаданий</catalogs>
+  <catalogs>Catalog.ГИТ</catalogs>
   <documents>Document._ДемоЗаказПокупателя</documents>
   <documents>Document._ДемоКорректировкаОстатковТоваровВМестахХранения</documents>
   <documents>Document._ДемоНачислениеЗарплаты</documents>

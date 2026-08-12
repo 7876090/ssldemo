@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="134dde73-0ec9-4ced-89b4-c206afdd6eca">
+  <producedTypes>
+    <objectType typeId="ac682606-b6dd-47af-8436-2e4e047f12af" valueTypeId="f29460a3-1254-40a7-ab78-493b9cb4157d"/>
+    <refType typeId="9848bd49-19b6-48ca-a13f-26c378b18458" valueTypeId="0c994516-c359-426e-a1da-0333f5e3f1d8"/>
+    <selectionType typeId="40696acf-2856-4150-b26d-31cc7e53b185" valueTypeId="b9cc9798-6e15-4607-bc7e-1602088754a0"/>
+    <listType typeId="c29880d6-d846-404b-b4e4-390c0cb0e60f" valueTypeId="7160460d-5b86-4d4d-adf5-01330dc4f2d8"/>
+    <managerType typeId="18a372d4-36f3-4f2a-ba74-d6116db887a0" valueTypeId="3dd65663-d6c5-488b-98ef-103cf98bd972"/>
+  </producedTypes>
+  <name>ГИТ</name>
+  <synonym>
+    <key>ru</key>
+    <value>ГИТ</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ГИТ.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ГИТ.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
