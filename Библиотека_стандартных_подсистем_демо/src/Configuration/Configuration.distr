@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<distributionSupport:DistributionSupport xmlns:distributionSupport="http://g5.1c.ru/v8/dt/distribution/model" version="6" fileState="Distributive" updateAvailable="true">
-  <parentConfigurationInfos id="b73cec65-10a9-4122-a9e7-af8d8dab4b08" storeMode="Self" configRelease="3.1.12.281" providerName="Фирма &quot;1С&quot;" configName="БиблиотекаСтандартныхПодсистемДемо" configVersion="ce13ceaa-3482-4e09-8b38-fa30785f6ec3">
-    <rules existingIdenticalObjectsWithFreeModeKeepMode="true" existingIdenticalObjectsWithWarningModeKeepMode="true" existingDifferentObjectsWithFreeModeKeepMode="true" existingDifferentObjectsWithFreeMode="ChangesAllowed" existingDifferentObjectsWithWarningModeKeepMode="true" existingDifferentObjectsWithWarningMode="ChangesAllowed"/>
+<distributionSupport:DistributionSupport xmlns:distributionSupport="http://g5.1c.ru/v8/dt/distribution/model" version="6" updateAvailable="true">
+  <parentConfigurationInfos id="b73cec65-10a9-4122-a9e7-af8d8dab4b08" configRelease="3.1.12.281" providerName="Фирма &quot;1С&quot;" configName="БиблиотекаСтандартныхПодсистемДемо" configVersion="ce13ceaa-3482-4e09-8b38-fa30785f6ec3">
+    <rules newObjectsWithFreeMode="ChangesAllowed" newObjectsWithWarningMode="ChangesAllowed" existingIdenticalObjectsWithFreeModeKeepMode="true" existingIdenticalObjectsWithWarningModeKeepMode="true" existingDifferentObjectsWithFreeModeKeepMode="true" existingDifferentObjectsWithFreeMode="ChangesAllowed" existingDifferentObjectsWithWarningModeKeepMode="true" existingDifferentObjectsWithWarningMode="ChangesAllowed"/>
     <supportLanguages/>
     <items userId="3de052b2-2cdb-461f-871f-2705e3ae4622" parentId="3de052b2-2cdb-461f-871f-2705e3ae4622" userMode="ChangesAllowed" used="true"/>
     <items userId="d95fcb37-fc65-466d-93e2-489f41683276" parentId="d95fcb37-fc65-466d-93e2-489f41683276" userMode="ChangesAllowed" used="true"/>
