@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="81aea060-2765-40c2-8619-fcf2adf7b5ba">
+  <producedTypes>
+    <managerType typeId="c45c3900-d37b-4fda-aa1b-ac16ac588fec" valueTypeId="0e9f23e7-934d-4ddf-b48c-9943fed4c12b"/>
+    <valueManagerType typeId="3ef6aa39-5617-44c2-908e-059ef92c0512" valueTypeId="fa975e6c-6321-4ae3-8e74-a33fe9e4cacf"/>
+    <valueKeyType typeId="15e16752-a040-4fe9-ad2c-8aae96fbbf31" valueTypeId="aa5c26ff-4d5f-4443-b341-556ea68a6dcd"/>
+  </producedTypes>
+  <name>_ДемоВалютаРегламентированногоУчета</name>
+  <synonym>
+    <key>ru</key>
+    <value>Демо: Валюта регламентированного учета</value>
+  </synonym>
+  <type>
+    <types>CatalogRef.Валюты</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
